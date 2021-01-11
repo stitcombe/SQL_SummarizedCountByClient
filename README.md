@@ -1,6 +1,6 @@
 # SQL_SummarizedCountByClient
 
-SQL provides a summarized table of 6 unique count types broken out by client name.
+SQL provides a summarized table of 6 unique count types broken out by client name. Clients are dynamic, not hard coded. Clients are included only if there is at least 1 Count Type is populated.
 
 Here's a sample of the output below:
 
